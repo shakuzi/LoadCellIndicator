@@ -1,0 +1,2 @@
+# indicator
+Load Cell Indicator
